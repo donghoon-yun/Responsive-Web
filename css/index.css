@@ -1063,7 +1063,16 @@ footer{height: 150px;}
     width: 100vw;
     flex-direction: column;
     position: relative;
-    }
+  }
+  .box{
+    width: 100vw;
+    height: 500px;
+    /* border: 1px solid #000; */
+    background: url(../image/background.jpg) no-repeat center / cover;
+    opacity: 0.8;
+    display: flex;
+    position: relative;
+  }
     .boxText{position: absolute;}
     .boxText span{text-align: center;}
     .boxText p{width: 500px;}
@@ -1084,8 +1093,9 @@ footer{height: 150px;}
 
 }
 
-.image{width: 700%;}
+.image{width: 100%;}
 .image ul{
+  width: 100%;
   display: flex;
   justify-content: center;
 }
