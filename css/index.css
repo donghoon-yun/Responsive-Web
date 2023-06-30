@@ -909,8 +909,8 @@ footer{height: 150px;}
     background: url(../image/mainvisual3.jpg) no-repeat center / cover;
   }
   /* ____________________________________header */
-
-  h1{font-size: 40px;}
+  #dark{margin-top: 100px;}
+  h1{font-size: 40px; }
   header> a{
     position: fixed;
     top: 10%;
@@ -1023,7 +1023,7 @@ footer{height: 150px;}
   }
   .claymorphism ul{
     width: inherit;
-    height: 200px;
+    height: 100%;
     /* border: 1px solid #000; */
     position: absolute;
   }
@@ -1197,5 +1197,5 @@ footer{height: 150px;}
   flex-direction: column;
   width: 100%;
 }
-.footer img{margin-top: 10px;}
+/* .footer img{margin-top: 10px;} */
 }
