@@ -634,7 +634,7 @@ footer{
 @media all and (min-width:769px) and (max-width:1199px){
   section{width: 100%;}
   header{width: 100%;}
-  .mainvisual{background: url(../image/mainvisual-2.jpg)no-repeat center / cover;}
+  .mainvisual{background: url(../image/mainvisual-2.jpg)no-repeat center / contain;}
   
   /* _____________________header */
 
@@ -902,7 +902,7 @@ footer{height: 150px;}
 @media all and (max-width:769px){
   header{width: 100%;}
   .mainvisual{
-    background: url(../image/mainvisual3.jpg) no-repeat center / cover;
+    background: url(../image/mainvisual3.jpg) no-repeat center / contain;
   }
   /* ____________________________________header */
 
