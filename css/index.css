@@ -631,7 +631,7 @@ footer{
 
 
 /* __________________________________tablet */
-@media all and (min-width:769px) and (max-width:1199px){
+@media all and (min-width:770px) and (max-width:1199px){
   section{width: 100%;}
   header{width: 100%;}
   .mainvisual{
@@ -647,7 +647,7 @@ footer{
   .left{order: 2;}
   .logo img{ order: 1;}
   .right{order: 3;}
-
+  h1{font-size: 40px;}
 
 
 
