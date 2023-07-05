@@ -737,8 +737,8 @@ footer{
     top: 57%;
     left: 0%;
     transform: translateY(-50%);
-    width: 27%;
-    height: 16%;
+    width: 20%;
+    height: 14%;
     animation:clay5 2s infinite ;
     display: block;
   }
@@ -753,8 +753,8 @@ footer{
     top: 64%;
     left: 54%;
     transform: translateX(-50%);
-    width: 25%;
-    height: 16%;
+    width: 28%;
+    height: 22%;
     animation:clay6 2s infinite ;
     display: block;
   }
@@ -770,7 +770,7 @@ footer{
     left: 75%;
     transform: translateY(-50%);
     width: 21%;
-    height: 12%;;
+    height: 16%;;
     animation:clay7 2s infinite ;
     display: block;
   }
@@ -1080,7 +1080,7 @@ footer{height: 150px;}
   }
   .claymorphism ul li:nth-child(7){
     top: 55%;
-    left: 80%;
+    left: 84%;
     transform: translateY(-50%);
     width: 50px;
     height: 80px;
